@@ -1,0 +1,17 @@
+/* global.css - Estilos globais para mobile */
+
+/* Reset e box-sizing consistente */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Previne overflow horizontal */
+body {
+    overflow-x: hidden;
+    background: #f0f2f5;
+    width: 100%;
+    position: relative;
+}
