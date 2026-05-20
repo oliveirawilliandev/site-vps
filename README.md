@@ -1,10 +1,10 @@
 # Site VPS
 
-Uma aplicação web moderna construída com React para gerenciar e exibir informações sobre VPS.
+Uma aplicação web moderna construída com React para gerenciar e exibir informações sobre meus Projetos.
 
 ## 📋 Descrição
 
-Site VPS é uma aplicação responsiva desenvolvida com tecnologias web modernas, oferecendo uma interface intuitiva e eficiente para interagir com serviços de VPS.
+Site VPS é uma aplicação responsiva desenvolvida com tecnologias web modernas, oferecendo uma interface intuitiva e eficiente.
 
 ## 🚀 Tecnologias
 
